@@ -6,7 +6,7 @@ import ResetButton from './ResetButton'
 
 
 describe('ResetButton', () =>{
-it.skip('renders without crashign', () =>{
+it('renders without crashign', () =>{
     const div = document.createElement('div');
     ReactDOM.render(<ResetButton />, div);
     ReactDOM.unmountComponentAtNode(div);

@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Searh from './Search'
+import Search from './Search'
 
 
 

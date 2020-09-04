@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar renders UI as expected 1`] = `
+Array [
+  <label
+    htmlFor="search_bar"
+  />,
+  <input
+    name="search_bar"
+    type="text"
+  />,
+]
+`;
